@@ -17,7 +17,6 @@ Custom WordPress website developed for Parmatma Light Decoration, a specialized 
 - Services showcase: Destination Wedding Planning, Theme & Decor Planning, Lighting & Artistic Setup, Sound & DJ Nights, Professional Music Arrangement, Logistics & Material Delivery
 - About/Welcome section highlighting excellent planning, artistic lighting, professionalism, creativity, value for money, and turning visions into breathtaking reality
 - "Feature Services" and "Experience You Can Trust" highlights: Customer-centric approach, reliable execution, one-stop event solutions, trusted in Udaipur
-- Contact/Appointment section with phone (+91 82903 64925), email (parmatmadestinationwedding@gmail.com), address (Shivgarh Garden Resort, BDO Colony, Udaipur), and inquiry form
 - Responsive design optimized for event/wedding visuals (mobile-first)
 - SEO-friendly for local Udaipur wedding planner/event decoration searches
 
